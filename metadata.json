@@ -1,0 +1,6 @@
+{
+  "name": "Ride Reimbursement Generator",
+  "description": "Automates fetching ride receipts from Gmail, extracting ride details using Gemini, filtering after 8:00 PM, and generating reimbursement reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
