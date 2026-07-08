@@ -1,9 +1,9 @@
 {
-  "projectId": "compact-star-tdpgw",
-  "appId": "1:1014297657844:web:685ddb37813b6da817b9a1",
-  "apiKey": "AIzaSyCulHRClMvWQQWhUxt8f9OPaRdpuycMjRQ",
-  "authDomain": "compact-star-tdpgw.firebaseapp.com",
-  "storageBucket": "compact-star-tdpgw.firebasestorage.app",
-  "messagingSenderId": "1014297657844",
+  "projectId": "ride-reimbursement-generator",
+  "appId": "1:117680324586:web:33eed880fc8d69395cbc93",
+  "apiKey": "AIzaSyCZKLhqtSGddrtRLGkO1xNHEvX_UeAlUvE",
+  "authDomain": "ride-reimbursement-generator.firebaseapp.com",
+  "storageBucket": "ride-reimbursement-generator.firebasestorage.app",
+  "messagingSenderId": "117680324586",
   "measurementId": ""
 }
